@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Text Include="shell.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+    <Text Include="cube.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+    <Text Include="terrainTex.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="VBFileModels">
+      <UniqueIdentifier>{6697cb77-25ae-4be6-b1c9-f44a6aef5e66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="kenney_weapons">
+      <UniqueIdentifier>{e730e49f-94ef-4ee9-8355-8161fce07b90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MeshContentTask Include="Bird\BirdModelV1.fbx" />
+    <MeshContentTask Include="Table\table.FBX" />
+    <MeshContentTask Include="Vase\JEMINA vase -up.fbx" />
+    <MeshContentTask Include="kenney_weapon\grenadesmoke.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_machinegun.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_machinegunlauncher.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_pistol.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_rocket.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_rocketmodern.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_shotgun.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_sniper.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\ammo_uzi.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\flamethrower.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\flamethrowerhandle.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\grenade.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\grenade_vintage.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\grenadeflash.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\knife_sharp.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\knife_smooth.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\kniferound_sharp.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\kniferound_smooth.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\machinegun.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\machinegunlauncher.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\pistol.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\pistolsilencer.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\rocketlauncher.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\rocketlaunchermodern.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\rocketlaunchermodernrotating.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\rocketlauncherside.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\shotgun.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\shotgunshort.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\sniper.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\snipercamo.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzi.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzigold.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzigoldlong.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzigoldlongsilencer.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzigoldsilencer.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzilong.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzilongsilencer.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="kenney_weapon\uzisilencer.fbx">
+      <Filter>kenney_weapons</Filter>
+    </MeshContentTask>
+  </ItemGroup>
+</Project>
